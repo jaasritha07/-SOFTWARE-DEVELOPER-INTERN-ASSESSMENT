@@ -20,13 +20,13 @@ This project implements a simple registration form using Flask (Python) for the 
 - Simple and clean UI.
 
 ## Technologies Used
-- **Backend:** Python, Flask
-- **Frontend:** HTML, Bootstrap
-- **Database:** SQLite
-- **Development Environment:** Virtual Environment
+- Backend: Python, Flask
+- Frontend: HTML, Bootstrap
+- Database: SQLAlchemy
+-  Development Environment: Virtual Environment
 
 ## Setup Instructions
 
-### Prerequisites
+ ## Prerequisites
 - Python 3.x installed on your machine.
 - Basic knowledge of Python and Flask.
